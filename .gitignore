@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+digit_model.h5
+accuracy_plot.png
+loss_plot.png
+confusion_matrix.png
+dataset/
+augmented_dataset/
