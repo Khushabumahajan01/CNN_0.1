@@ -1,6 +1,14 @@
-.venv/
-venv/
-.venv*/
 __pycache__/
 *.pyc
 
+.venv/
+.venv*/
+venv/
+DigitCNN/
+
+digit_model.h5
+accuracy_plot.png
+loss_plot.png
+confusion_matrix.png
+dataset/
+augmented_dataset/
