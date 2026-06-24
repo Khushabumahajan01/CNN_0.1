@@ -4,7 +4,10 @@ __pycache__/
 .venv/
 .venv*/
 venv/
-DigitCNN/
+**/.venv/
+**/.venv*/
+**/venv/
+**/__pycache__/
 
 digit_model.h5
 accuracy_plot.png
